@@ -1,0 +1,15 @@
+{
+  "short_name": "School dashboard",
+  "name": "Holberton School dashboard",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#cd2c46",
+  "background_color": "#ffffff"
+}

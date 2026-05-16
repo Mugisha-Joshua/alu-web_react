@@ -1,0 +1,40 @@
+:root {
+  --holberton-red: #cd2c46;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #1c1c1c;
+}
+
+.App-header {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  padding: 20px 40px;
+  border-bottom: 4px solid var(--holberton-red);
+}
+
+.App-logo {
+  height: 180px;
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 44px;
+  color: var(--holberton-red);
+}
+
+.App-body {
+  min-height: 60vh;
+  padding: 40px;
+  font-size: 20px;
+}
+
+.App-footer {
+  border-top: 4px solid var(--holberton-red);
+  padding: 20px;
+  text-align: center;
+  font-style: italic;
+}
