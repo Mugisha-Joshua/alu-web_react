@@ -1,0 +1,11 @@
+button {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#count {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 10px;
+  font-weight: bold;
+}
