@@ -1,0 +1,11 @@
+.Login-body {
+  margin: 48px 0;
+}
+
+.Login-body label {
+  margin-right: 8px;
+}
+
+.Login-body input {
+  margin-right: 16px;
+}

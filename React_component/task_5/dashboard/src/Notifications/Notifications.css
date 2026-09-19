@@ -1,0 +1,24 @@
+.menuItem {
+  text-align: right;
+  padding: 8px;
+}
+
+.Notifications {
+  position: absolute;
+  right: 8px;
+  padding: 8px 16px;
+  border: 2px dashed #e1003c;
+  background-color: white;
+}
+
+.Notifications ul {
+  padding-left: 24px;
+}
+
+.Notifications li[data-notification-type='default'] {
+  color: blue;
+}
+
+.Notifications li[data-notification-type='urgent'] {
+  color: red;
+}
